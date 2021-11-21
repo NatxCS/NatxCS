@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="titulo">REGISTRO</string>
+    <string name="usuario">Nombre de usuario</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="entrar">registrarte</string>
+    <string name="title_activity_favoritos">favoritos</string>
+</resources>
